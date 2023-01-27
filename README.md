@@ -9,7 +9,7 @@
 
 <br/> 
 
-<h3 align="center"> 🌱 
+<h3 align="center">
 <br>
 <br> I Am Groot 🌱<br/> 
 <br>
