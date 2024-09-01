@@ -50,12 +50,5 @@
 [velog](https://velog.io/@iamgroot1231)
 
    <br>
- 
-</div>
- 
----
-
-<div align="center">
-<img align="center" width="50%" src="https://github-readme-status.vercel.app/api?username=groot-94&show_icons=true&theme=gruvbox"/>
 
 </div>
