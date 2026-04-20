@@ -11,9 +11,11 @@
 <h3 align="center"> 경력 🌱</h3>
 <br>
 
-###### 🏢 슈퍼진 (Supergene) — iOS Developer (2025.06 ~ 현재)
-###### 🏢 애즈위메이크 — iOS Developer (2023.04 ~ 2025.06)
-###### 🐻 Yagom Academy iOS Career Starter Camp 6th
+<p align="center">
+🏢 슈퍼진 (Supergene) — iOS Developer (2025.06 ~ 현재)<br>
+🏢 애즈위메이크 — iOS Developer (2023.04 ~ 2025.06)<br>
+🐻 Yagom Academy iOS Career Starter Camp 6th
+</p>
 
 <br>
 
