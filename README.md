@@ -72,8 +72,8 @@ let groot = Developer(
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Groot-94/Groot-Harness"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Groot-94&repo=Groot-Harness&theme=vue-dark&hide_border=true"/></a>
-<a href="https://github.com/Groot-94/My_AppStore"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Groot-94&repo=My_AppStore&theme=vue-dark&hide_border=true"/></a>
+<a href="https://github.com/Groot-94/Groot-Harness"><img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Groot-94&repo=Groot-Harness&theme=vue-dark&hide_border=true"/></a>
+<a href="https://github.com/Groot-94/My_AppStore"><img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Groot-94&repo=My_AppStore&theme=vue-dark&hide_border=true"/></a>
 </div>
 
 ### 🤖 [Groot-Harness](https://github.com/Groot-94/Groot-Harness)
@@ -95,10 +95,10 @@ let groot = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Groot-94&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Groot-94&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=Groot-94&theme=vue-dark&hide_border=true"/>
 <br>
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groot-94&layout=compact&theme=vue-dark&hide_border=true&langs_count=6"/>
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Groot-94&layout=compact&theme=vue-dark&hide_border=true&langs_count=6"/>
 </div>
 
 <br>
