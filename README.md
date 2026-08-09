@@ -58,17 +58,6 @@ let groot = Developer(
 
 <br>
 
-## 🤖 AI-Driven Workflow
-
-> **"AI를 도구가 아닌 팀원으로"** — Claude 기반 자동화로 개발 사이클 전체를 가속합니다
-
-- ⚡ **Claude Code 멀티 에이전트 하네스** — 서브에이전트 오케스트레이션으로 탐색·구현·리뷰 병렬화
-- 🔍 **AI 코드 리뷰 자동화** — PR 단위 자동 리뷰 파이프라인 구축
-- 🧩 **Tuist 모듈 생성 자동화** — 피처 모듈 스캐폴딩부터 DI 조립까지 자동화
-- 🚀 **CI/CD** — GitHub Actions + Fastlane으로 빌드·배포 파이프라인 운영
-
-<br>
-
 ## 🚀 Featured Projects
 
 <div align="center">
